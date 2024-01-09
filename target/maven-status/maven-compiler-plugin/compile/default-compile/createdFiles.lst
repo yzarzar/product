@@ -1,1 +1,8 @@
+com/example/springapi/entity/Rating.class
+com/example/springapi/repository/RatingRepository.class
+com/example/springapi/controller/ProductController.class
 com/example/springapi/SpringApiApplication.class
+com/example/springapi/repository/ProductRepository.class
+com/example/springapi/service/ProductService.class
+com/example/springapi/response/Products.class
+com/example/springapi/entity/Product.class

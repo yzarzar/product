@@ -1,1 +1,8 @@
+/Users/yarzar/IdeaProjects/spring-api/src/main/java/com/example/springapi/service/ProductService.java
 /Users/yarzar/IdeaProjects/spring-api/src/main/java/com/example/springapi/SpringApiApplication.java
+/Users/yarzar/IdeaProjects/spring-api/src/main/java/com/example/springapi/entity/Rating.java
+/Users/yarzar/IdeaProjects/spring-api/src/main/java/com/example/springapi/controller/ProductController.java
+/Users/yarzar/IdeaProjects/spring-api/src/main/java/com/example/springapi/repository/RatingRepository.java
+/Users/yarzar/IdeaProjects/spring-api/src/main/java/com/example/springapi/entity/Product.java
+/Users/yarzar/IdeaProjects/spring-api/src/main/java/com/example/springapi/response/Products.java
+/Users/yarzar/IdeaProjects/spring-api/src/main/java/com/example/springapi/repository/ProductRepository.java
